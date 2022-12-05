@@ -1,3 +1,5 @@
+# a code to classify months using for loop
+
 df3["Season"]<-1
 usq<-0
 for(i in 1:nrow(df3)){
